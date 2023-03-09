@@ -6,7 +6,7 @@ all: test
 test:
 	go test ${MODFLAGS} ${TESTFLAGS} ./...
 
-testv:
-	go test ${MODFLAGS} ${TESTFLAGS} -v ./...
+testmutation:
+	go test ${TESTFLAGS} -v -tags=mutation ./...
 
 .PHONY: all test testv
