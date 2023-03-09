@@ -1,6 +1,6 @@
 //go:build mutation
 
-package tonality_test
+package mutation
 
 import (
 	"testing"
@@ -14,5 +14,6 @@ func TestMutation(t *testing.T) {
 		ooze.WithRepositoryRoot("../"),
 		ooze.WithTestCommand("make test"),
 		ooze.IgnoreSourceFiles("^vendor/"),
+		ooze.ForceColors(),
 	)
 }
