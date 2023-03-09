@@ -1,0 +1,58 @@
+# github.com/fatih/color v1.14.1
+## explicit; go 1.17
+github.com/fatih/color
+# github.com/gtramontina/ooze v0.2.0
+## explicit; go 1.18
+github.com/gtramontina/ooze
+github.com/gtramontina/ooze/internal/cmdtestrunner
+github.com/gtramontina/ooze/internal/color
+github.com/gtramontina/ooze/internal/consolereporter
+github.com/gtramontina/ooze/internal/fsrepository
+github.com/gtramontina/ooze/internal/fstemporarydir
+github.com/gtramontina/ooze/internal/future
+github.com/gtramontina/ooze/internal/goinfectedfile
+github.com/gtramontina/ooze/internal/gomutatedfile
+github.com/gtramontina/ooze/internal/gosourcefile
+github.com/gtramontina/ooze/internal/gotextdiff
+github.com/gtramontina/ooze/internal/ignoredrepository
+github.com/gtramontina/ooze/internal/iologger
+github.com/gtramontina/ooze/internal/laboratory
+github.com/gtramontina/ooze/internal/ooze
+github.com/gtramontina/ooze/internal/prettydiff
+github.com/gtramontina/ooze/internal/result
+github.com/gtramontina/ooze/internal/scorecalculator
+github.com/gtramontina/ooze/internal/testingtlaboratory
+github.com/gtramontina/ooze/internal/verboselaboratory
+github.com/gtramontina/ooze/internal/verbosereporter
+github.com/gtramontina/ooze/internal/verboserepository
+github.com/gtramontina/ooze/internal/verbosetemporarydir
+github.com/gtramontina/ooze/internal/verbosetestrunner
+github.com/gtramontina/ooze/viruses
+github.com/gtramontina/ooze/viruses/arithmetic
+github.com/gtramontina/ooze/viruses/arithmeticassignment
+github.com/gtramontina/ooze/viruses/arithmeticassignmentinvert
+github.com/gtramontina/ooze/viruses/bitwise
+github.com/gtramontina/ooze/viruses/comparison
+github.com/gtramontina/ooze/viruses/comparisoninvert
+github.com/gtramontina/ooze/viruses/comparisonreplace
+github.com/gtramontina/ooze/viruses/floatdecrement
+github.com/gtramontina/ooze/viruses/floatincrement
+github.com/gtramontina/ooze/viruses/integerdecrement
+github.com/gtramontina/ooze/viruses/integerincrement
+github.com/gtramontina/ooze/viruses/loopbreak
+github.com/gtramontina/ooze/viruses/loopcondition
+github.com/gtramontina/ooze/viruses/rangebreak
+# github.com/hexops/gotextdiff v1.0.3
+## explicit; go 1.16
+github.com/hexops/gotextdiff
+github.com/hexops/gotextdiff/myers
+github.com/hexops/gotextdiff/span
+# github.com/mattn/go-colorable v0.1.13
+## explicit; go 1.15
+github.com/mattn/go-colorable
+# github.com/mattn/go-isatty v0.0.17
+## explicit; go 1.15
+github.com/mattn/go-isatty
+# golang.org/x/sys v0.3.0
+## explicit; go 1.17
+golang.org/x/sys/unix
